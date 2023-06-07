@@ -13,7 +13,7 @@
 │  └─widerface：本实验需要的原始数据集、标签及转化后数据，下面将给出百度网盘链接\
 │      ├─images\
 │      │  ├─0--Parade\
-|        ...\
+        ...\
 │      │  ├─61--Street_Battle\
 │      ├─train\
 │      │  ├─images\
@@ -27,11 +27,11 @@
 ├─runs\
 │  ├─detect\
 │  │  ├─exp\
-|    ...\
+   ...\
 │  └─train：训练过程产生的结果放置在对应文件夹\
 │      ├─exp\
 │      │  └─weights\
-|      ...
+      ...
 ├─torch2trt\
 │  └─imgs\
 ├─utils\
